@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation    Test suite for testing login functionality
 Resource    ../Resources/common.robot
-Resource    ../PageObjects/login_page.robot
+# Resource    ../PageObjects/login_page.robot
 # Suite Setup    Open WDIO Demo Application
 # Suite Teardown    Close WDIO Demo Application
 Test Teardown    Go Back
